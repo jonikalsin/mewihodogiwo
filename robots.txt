@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://mewihodogiwo.netlify.app/sitemap.xml
